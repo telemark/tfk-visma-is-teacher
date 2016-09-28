@@ -1,0 +1,67 @@
+[
+  {
+    "firstName": "Testine",
+    "middleName": null,
+    "lastName": "Testen",
+    "fullName": "Testine Testen",
+    "username": "01016101",
+    "personalIdNumber": "09045748488",
+    "mobilePhone": null,
+    "mail": "Testine.Testen@t-fk.no",
+    "privateMail": "Testine.Testen@example.com",
+    "department": "SKIVS",
+    "organizationNumber": "974568039"
+  },
+  {
+    "firstName": "Testine",
+    "middleName": null,
+    "lastName": "Testen",
+    "fullName": "Testine Testen",
+    "username": "01016102",
+    "personalIdNumber": "26118645145",
+    "mobilePhone": null,
+    "mail": "Testine.Testen@t-fk.no",
+    "privateMail": "Testine.Testen@example.com",
+    "department": "SKIVS",
+    "organizationNumber": "974568039"
+  },
+  {
+    "firstName": "Testine",
+    "middleName": null,
+    "lastName": "Testen",
+    "fullName": "Testine Testen",
+    "username": "01016103",
+    "personalIdNumber": "40",
+    "mobilePhone": null,
+    "mail": "Testine.Testen@t-fk.no",
+    "privateMail": "Testine.Testen@example.com",
+    "department": "SKIVS",
+    "organizationNumber": "974568039"
+  },
+  {
+    "firstName": "Testine",
+    "middleName": null,
+    "lastName": "Testen",
+    "fullName": "Testine Testen",
+    "username": "ulnor",
+    "personalIdNumber": "50",
+    "mobilePhone": null,
+    "mail": "Testine.Testen@t-fk.no",
+    "privateMail": "Testine.Testen@example.com",
+    "department": "SKIVS",
+    "organizationNumber": "974568039"
+  },
+  {
+    "firstName": "Testine",
+    "middleName": null,
+    "lastName": "Testen",
+    "fullName": "Testine Testen",
+    "username": "jomid",
+    "personalIdNumber": "60",
+    "mobilePhone": null,
+    "mail": "Testine.Testen@t-fk.no",
+    "privateMail": "Testine.Testen@example.com",
+    "department": "SKIVS",
+    "organizationNumber": "974568039"
+  }
+]
