@@ -1,9 +1,9 @@
 'use strict'
 
 module.exports = {
-  baseurl: 'http://url-to-visma:8290/hrm_ws/secure/persons/ssn/',
+  baseurl: process.env.VISMA_BASEURL || 'http://url-to-visma:8290/hrm_ws/secure/persons/ssn/',
   auth: {
-    user: 'user',
-    password: 'pass'
+    user: process.env.VISMA_USER || 'user',
+    password: process.env.VISMA_PASSWORD || 'pass'
   }
 }
