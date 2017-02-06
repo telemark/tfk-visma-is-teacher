@@ -34,14 +34,14 @@
     "standard-fix": "standard --fix"
   },
   "devDependencies": {
-    "coveralls": "2.11.14",
-    "nsp": "2.6.1",
-    "standard": "8.1.0",
-    "tap": "7.1.2"
+    "coveralls": "2.11.16",
+    "nsp": "2.6.2",
+    "standard": "8.6.0",
+    "tap": "10.0.2"
   },
   "dependencies": {
-    "async": "2.0.1",
-    "request": "2.75.0",
+    "async": "2.1.4",
+    "request": "2.79.0",
     "xml2js": "0.4.17"
   }
 }
