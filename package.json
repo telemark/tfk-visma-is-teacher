@@ -40,7 +40,7 @@
     "tap": "7.1.2"
   },
   "dependencies": {
-    "async": "2.0.1",
+    "async": "2.6.1",
     "request": "2.75.0",
     "xml2js": "0.4.17"
   }
