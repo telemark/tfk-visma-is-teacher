@@ -42,6 +42,6 @@
   "dependencies": {
     "async": "2.6.1",
     "request": "2.87.0",
-    "xml2js": "0.4.17"
+    "xml2js": "0.4.19"
   }
 }
