@@ -34,7 +34,7 @@
     "standard-fix": "standard --fix"
   },
   "devDependencies": {
-    "coveralls": "3.0.1",
+    "coveralls": "3.0.2",
     "nsp": "2.6.1",
     "standard": "11.0.1",
     "tap": "7.1.2"
