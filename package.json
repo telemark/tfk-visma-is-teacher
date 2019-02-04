@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-visma-is-teacher.git"
+    "url": "https://github.com/telemark/tfk-visma-is-teacher.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-visma-is-teacher/issues"
+    "url": "https://github.com/telemark/tfk-visma-is-teacher/issues"
   },
   "homepage": "https://github.com/telemark/tfk-visma-is-teacher",
   "engines": {
