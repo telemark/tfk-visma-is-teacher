@@ -4,6 +4,10 @@ const async = require('async')
 
 const find = (obj, cb) => {
   isTeacher({ id: obj.personalIdNumber, config }, (err, data) => {
+    if (err) {
+      console.error(err)
+      return cb(err, null)
+    }
     return cb(data)
   })
 }
